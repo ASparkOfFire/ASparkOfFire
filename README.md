@@ -12,5 +12,5 @@
 ### Hit Me Up:
 
 <a href="https://t.me/ASparkOfFire/"><img src="https://img.shields.io/static/v1?label=Telegram&message=%20&color=blue&logo=Telegram&style=flat-square&logoColor=white"></a>&nbsp;&nbsp;
-<a href="mailto:admin@fstash.tk"><img src="https://img.shields.io/static/v1?label=admin@fstash.tk&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
+<a href="mailto:admin@fstash.tk"><img src="https://img.shields.io/static/v1?label=admin@asparkoffire.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white"></a>
 
