@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kabir aka asparkoffire</h1>
 
-- 🌱 I’m currently learning **Unreal Engine**
+- 🌱 I’m currently learning **Terraform**
 
-- 🤝 I’m looking for help with **Networking, RHEL**
+- 🤝 I’m looking for help with **Kubernetes, AWS**
 
 
 <h3 align="left">Languages and Tools:</h3>
